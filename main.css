@@ -34,6 +34,12 @@ ul {
     font-size: 30px;
 }
 
+.navbar a:hover {
+    text-decoration: none;
+    color: #8C9599;
+    font-size: 30px;
+}
+
 #pac {
     padding-left: 30px;
 }
